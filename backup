@@ -1,0 +1,6 @@
+<img src="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Ffortnite-chapter-2-season-2-extended-until-early-june-2020%2F12BR_BP_SolidGold_Social-1920x1080-a941d11bb5a0a257ca813348d561af56c5a16d14.jpg" style="width:300px;">
+background-color: black;
+background-image:url("https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/5e64e50f183ebe001d061cc7.jpg") ;
+background-image:url("https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/5e64e50f183ebe001d061cc7.jpg") ;
+background-size:100%;
+<img id="imagem" src="https://cdn2.unrealengine.com/Fortnite%2Fblog%2Ffortnite-chapter-2-season-2-extended-until-early-june-2020%2F12BR_BP_SolidGold_Social-1920x1080-a941d11bb5a0a257ca813348d561af56c5a16d14.jpg" style="width:300px;" onmouseleave="mudarimagemfora()"  onmouseover="mudarimagemdentro()">
